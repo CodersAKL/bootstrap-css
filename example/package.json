@@ -25,8 +25,8 @@
     "webpack-hot-middleware": "^2.0.0"
   },
   "dependencies": {
-    "react": "^0.14.0",
-    "react-css-modules": "^3.6.1",
+    "react": "^0.14.8",
+    "react-css-modules": "^3.7.10",
     "react-dom": "^0.14.0"
   }
 }
